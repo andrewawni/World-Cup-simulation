@@ -1,0 +1,36 @@
+
+0	A 	Russia 			RUS 4.3 3.5
+1	A 	SaudiArabia		KSA	2.9	5.2
+2	A 	Egypt 			EGY 4.0 3.2
+3	A 	Uruguay			URU 6.4	2.5
+4	B 	Portugal		POR 6.5	2.2
+5	B 	Spain			SPA 6.4	2.3
+6	B 	Morocco			MOR 4.7	3.8
+7	B 	Iran			IRA 3.4	2.0
+8	C 	France			FRA 6.8	2.5
+9	C 	Australia		AUS 3.7	4.1
+10	C 	Peru			PER 5.1	3.4
+11	C 	Denmark			DEN 5.3	3.3
+12	D 	Argentina		ARG 5.7	2.2
+13	D 	Iceland			ICL 3.2	3.8
+14	D 	Croatia			CRO 4.9	3.2
+15	D 	Nigeria			NIG 3.9	3.9
+16	E 	Brazil			BRA 7.0	2.0
+17	E 	Switzerland		SWZ 6.0	2.8
+18	E 	CostaRica		CSR 3.6 4.2
+19	E 	Serbia			SER 3.8 3.7
+20	F 	Germany			GER 6.7 2.1
+21	F 	Mexico			MEX 5.5 3.2
+22	F 	Sweden			SWE 4.4	3.6
+23	F 	SouthKorea		SKR 2.7 5.1
+24	G 	Belgium			BEL 6.9 2.6
+25	G 	Panama			PAN 2.5	4.9
+26	G 	Tunisia			TUN 5.0	3.7
+27	G 	England			ENG 6.2	3.0
+28	H 	Poland			POL 5.9	2.9
+29	H 	Senegal			SEN 3.5	4.4
+30	H 	Colombia		COL 5.8 3.2
+31	H 	Japan			JAP 2.8 4.6
+
+
+
